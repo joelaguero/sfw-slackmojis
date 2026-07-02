@@ -12,7 +12,7 @@ The source emoji archives were downloaded from [Slackmojis.com](https://slackmoj
 
 - `emojis/` contains the curated SFW emoji image files.
 - `dist/sfw-slackmojis.zip` contains the same emoji files as a single bulk-download archive.
-- The current pack includes 1,986 emoji images.
+- The current pack includes 2,052 emoji images.
 
 ## Download
 
