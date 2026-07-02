@@ -30,7 +30,7 @@ git clone https://github.com/joelaguero/sfw-slackmojis.git
 
 ## Curation Notes
 
-This pack was assembled from downloaded Slackmoji archives, deduplicated by file content, and filtered to remove NSFW, explicit, profane, and drug-reference emoji files.
+This pack was assembled from downloaded Slackmoji archives, deduplicated by file content, renamed so every Slack upload name is unique, and filtered to remove NSFW, explicit, profane, and drug-reference emoji files.
 
 The filter is best-effort. If you find something that should not be included, open an issue or PR with the filename.
 
